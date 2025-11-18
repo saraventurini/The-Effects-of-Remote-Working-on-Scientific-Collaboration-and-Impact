@@ -1,5 +1,5 @@
-# The-Impact-of-Remote-Working-on-Academic-Production
-Repository for the code and analysis in the paper “The Impact of Remote Working on Academic Production” by Sara Venturini, Satyaki Sikdar, Martina Mazzarello, Francesco Rinaldi, Francesco Tudisco, Paolo Santi, Santo Fortunato, Carlo Ratti.
+# The Effects of Remote Working on Scientific Collaboration and Impact
+Repository for the code and analysis in the paper “The Effects of Remote Working on Scientific Collaboration and Impact” by Sara Venturini, Satyaki Sikdar, Martina Mazzarello, Francesco Rinaldi, Francesco Tudisco, Paolo Santi, Santo Fortunato, Carlo Ratti.
 
 Data
 - `https://github.com/satyakisikdar/openalex`: GitHub page  contains the instructions to create the snapshots from OpenAlex.
