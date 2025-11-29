@@ -2,7 +2,7 @@
 Repository for the code and analysis in the paper “The Effects of Remote Working on Scientific Collaboration and Impact” by Sara Venturini, Satyaki Sikdar, Martina Mazzarello, Francesco Rinaldi, Francesco Tudisco, Paolo Santi, Santo Fortunato, Carlo Ratti.
 
 Requirments
-- requirements.txt
+- `requirements.txt`
 
 Data
 - `https://github.com/satyakisikdar/openalex`: GitHub page contains the instructions to create the snapshots from OpenAlex.
