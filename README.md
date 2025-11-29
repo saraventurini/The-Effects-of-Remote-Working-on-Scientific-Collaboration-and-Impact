@@ -1,9 +1,14 @@
 # The Effects of Remote Working on Scientific Collaboration and Impact
 Repository for the code and analysis in the paper “The Effects of Remote Working on Scientific Collaboration and Impact” by Sara Venturini, Satyaki Sikdar, Martina Mazzarello, Francesco Rinaldi, Francesco Tudisco, Paolo Santi, Santo Fortunato, Carlo Ratti.
 
+Requirments
+- requirements.txt
+
 Data
-- `https://github.com/satyakisikdar/openalex`: GitHub page  contains the instructions to create the snapshots from OpenAlex.
-- `0.Tables.ipynb`: Jupyter notebook to create, clean, and save the data files used in the analysis. Details are reported in the Methods chapter of the paper.
+- `https://github.com/satyakisikdar/openalex`: GitHub page contains the instructions to create the snapshots from OpenAlex.
+- `Dataset_preprints`: sample dataset preprints
+- `Dataset_openalex`: sample dataset openalex
+- `0.Tables.ipynb`: Jupyter notebook to create, clean, and save the data files used in the analysis from the sample ones. Details are reported in the Methods chapter of the paper.
 
 Analysis
 - `1.TeamDistanceAnalysis.ipynb`: Jupyter notebook to calculate the fraction of inter/inter-institutions collaborations and the Average Team Distance.
